@@ -249,4 +249,3 @@ rm /data/processor_checkpoint.db
 ## License
 
 Proprietary - StoneRiver Company
-"# stoneriver_yesno" 
